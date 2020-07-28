@@ -8,5 +8,6 @@
 - 🛄 Proficient in Python-Machine Learning & core Java- Android Studio
 - 🤔 I’m looking for help with AWS and IBM Watson Studio. 🖥
 - 💬 HMU for a cup of coffee over Data Science and the Marvel Cinematic Universe movies! ☕
-- 📫 Ping me @stutisehgal2209@gmail.com ♾
+- 📫 Ping me @stutisehgal2209@gmail.com ♾ 
+             @StutiSehgal4 
 
