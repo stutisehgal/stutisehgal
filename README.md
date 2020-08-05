@@ -12,4 +12,6 @@
              @StutiSehgal4 
              
  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
+ 
+ [![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal)](https://github.com/stutisehgal/github-readme-stats)
 
