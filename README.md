@@ -10,4 +10,6 @@
 - 💬 HMU for a cup of coffee over Data Science and the Marvel Cinematic Universe movies! ☕
 - 📫 Ping me @stutisehgal2209@gmail.com ♾ 
              @StutiSehgal4 
+             
+ ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
 
