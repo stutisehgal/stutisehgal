@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Machine Learning and Computer vision projects; research-work and publication. 💻
 - 🛄 Proficient in Python-Machine Learning & core Java- Android Studio
 - 🤔 I’m looking for help with AWS, IBM Watson Studio and all about Open Source. 🖥
-- 📫 Ping me @stutisehgal2209@gmail.com ♾ 
+- 📫 Reach out @stutisehgal2209@gmail.com ♾ 
      
  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
 
