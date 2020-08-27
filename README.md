@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔰  Data Science Track General Volunteer @Women Who Code
+- 🔰  Machine Learning Researcher @Data Science Community SRM
 - 🔰  Global Ambassador @WomenTech Network
 - 🔭 I’m currently working on Deep Learning & Neural Networks models. 
 - 🌱 I’m currently learning Tensorflow and Artificial Intelligence.
