@@ -2,6 +2,7 @@
 
 - 🔰  Machine Learning Developer @Data Science Community SRM
 - ⭐ Researcher @Cognitive Applications Research Lab 
+- ⚽ Application Developer @Developer Student Clubs  (DSC-SRM)
 - 🔭 I’m currently working on Computer Vision-Deep Learning interference models. 
 - 🌱 I’m currently learning React js, and Artificial Intelligence.
 - 💨 Check out my blogs on Medium @stutisehgal2209
