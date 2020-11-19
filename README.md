@@ -3,7 +3,8 @@
 - 🔰  Machine Learning Developer @Data Science Community SRM
 - ⭐ Researcher @Cognitive Applications Research Lab 
 - ⚽ Application Developer @Developer Student Clubs  (DSC-SRM)
-- 🔭 I’m currently working on Computer Vision-Deep Learning interference models. 
+- 🤖 Lead of Women in Engineering and Content Team @IEEE SRMIST SB
+- 🔭 I’m currently working on Computer Vision-Deep Learning interference application models. 
 - 🌱 I’m currently learning React js, and Artificial Intelligence.
 - 💨 Check out my blogs on Medium @stutisehgal2209
 - 👯 I’m looking to collaborate on Machine Learning/Deep Learning and Computer vision projects; research-work and publication. 💻
