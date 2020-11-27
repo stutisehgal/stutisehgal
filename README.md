@@ -11,7 +11,7 @@
 - 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & core Java-Android Studio
 - 🤔 I’m looking for help with cloud computing, and all about Open Source. 🖥
 - 📫 Reach out @stutisehgal2209@gmail.com ♾ 
-- ⚫ Check out my blogs @[https://medium.com/@stutisehgal2209](Medium.com)
+- ⚫ Check out my blogs @[https://medium.com/@stutisehgal2209]
      
  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
 
