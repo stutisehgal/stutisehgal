@@ -10,6 +10,7 @@
 - 🤔 I’m looking for help with cloud computing, and all about Open Source. 🖥
 - 📫 Reach out @stutisehgal2209@gmail.com ♾ 
 
+![Visitor Count](https://profile-counter.glitch.me/stutisehgal/count.svg)
      
  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
 
