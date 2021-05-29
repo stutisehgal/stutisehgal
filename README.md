@@ -11,4 +11,6 @@
 - 📫 Reach out @stutisehgal2209@gmail.com ♾ 
      
  ![Stuti's github stats](https://github-readme-stats.vercel.app/api?username=stutisehgal&show_icons=true&theme=radical)
+ 
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stutisehgal&layout=compact)](https://github.com/stutisehgal/github-readme-stats)
 
